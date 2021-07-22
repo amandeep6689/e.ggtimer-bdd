@@ -1,10 +1,6 @@
-# E.ggtimer Countdown timer
+
 Project description:
 This project is to automate E.ggtimer.com Countdowm timer and check timer is working fine.
-
-Chrome Version= C:\chromedriver\chromedriver.exe.exe
-
-Gecko Driver Path= C:\geckodriver\geckodriver.exe
 
 
 
