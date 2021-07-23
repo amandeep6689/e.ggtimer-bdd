@@ -6,7 +6,7 @@ This project is to automate E.ggtimer.com Countdowm timer and check timer is wor
 
 Instructions to run and build code:
 
-1. Clone git repository (Repository URL: https://github.com/amandeep6689/e.ggtimer-bdd) using git clone
+1. Clone git repository(Repository URL: https://github.com/amandeep6689/e.ggtimer-bdd) using git clone
 2. Open "E.ggtimer.Com" project with IntelliJ IDE. You can use other IDE like eclipse as well. I have developed this in
 IntelliJ using Maven project.
 3. To run the project you can use either of below options:
